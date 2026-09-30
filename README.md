@@ -1,8 +1,8 @@
 # Gikomba Market Stall Performance Analysis
 
-**Full name:** [Enter your full name]
+**Full name:** Maxwell Liaram
 
-**Cohort:** [Enter your cohort]
+**Cohort:** HPF (Human Practice Foundation) Cohort 1
 
 ## Business problem
 Wanjiku runs a fresh-produce stall at Gikomba Market and has recorded two weeks of daily sales alongside rough stock information. She needs a clear view of total performance, growth between weeks, strong and weak trading days, weekend versus weekday patterns, and which products need restocking so she can focus limited cash on the best opportunities.
